@@ -1,0 +1,17 @@
+alias reveall = reveal -l
+alias reveala = reveal -a
+alias home = hop ~ 
+alias homefun = hop . .. .. -
+alias loggggg = log
+alias ahuja = hop ..
+mk_hop()
+{
+    mkdir "$1"
+    hop "$1"
+}
+
+hop_seek()
+{
+    hop "$1" # Hop into this directory
+    seek "$1" # search for files/directories with the same name as the directory you just hopped into.
+}
