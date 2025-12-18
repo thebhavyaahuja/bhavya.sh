@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Qiz9msrr)
-# Mini Project 1 
+# bhavya.sh (CShell)
 
-## Part A:
+## Functionalities:
 
 ### **Display**
 
@@ -247,8 +247,6 @@ Lists and displays details of files and directories based on provided flags.
      - If `-e` flag is set and exactly one match is found, executes or displays the file or directory:
        - Changes directory if the match is a directory.
        - Reads and displays the content if the match is a file.
-
-## Part B
 
 ### **myshrc**
 
